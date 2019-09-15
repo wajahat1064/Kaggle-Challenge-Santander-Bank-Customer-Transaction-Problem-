@@ -1,2 +1,4 @@
-# Kaggle-Challenge-Santander-Bank-Customer-Transaction-Problem-
-Using 200,000 samples and 200 features, predicted the next transaction of a new customer using Neural Networks, Naive Bayes and Logistic Regression
+
+Train.csv file contains the training data. Following is the google drive link for the file:
+https://drive.google.com/open?id=1oFPCrtpVq51l50Em78Z0jEtGuJd46_3h
+
