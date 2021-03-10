@@ -1,7 +1,7 @@
 
-Intro and Business Problem:
+**Intro and Business Problem**:
 
-**Santander Bank needs to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted. 
+**Santander Bank needs to identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted**. 
 
 The data provided for this competition has the **same** structure as the **real data** they have available to solve this problem.
 
