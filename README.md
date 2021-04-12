@@ -14,6 +14,6 @@ Dataset can be obtained directly from the Kaggle Competition:
 
 # Submission
 
-The score **(Area Under Receiver Operating Charachteristic Curve)** received on this submission is **0.90035** which places my position in the private leaderboard as **324** ( I ranked it myself due to late submission) out of **8751 total submissions** ranking me in **TOP 4 %**.
+The score **(Area Under Receiver Operating Charachteristic Curve)** received on this submission is **0.90035** which places my position in the private leaderboard as **324** out of **8751 total submissions** ranking me in **TOP 4 %**.
 
 Team winning the competition received a score of **0.92573**.
